@@ -1,0 +1,1 @@
+SELECT * FROM blogpessoal_db.postagem;
