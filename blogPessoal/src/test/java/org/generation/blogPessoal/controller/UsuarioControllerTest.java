@@ -97,6 +97,7 @@ public class UsuarioControllerTest {
 
 		assertEquals(HttpStatus.OK, resposta.getStatusCode());
 		
+		
 	}
 	
 }
